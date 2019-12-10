@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FacebookProfileUIusingRelativeandLinearLayout</string>
+    <string name="friends">Friends</string>
+    <string name="button">Button</string>
+    <string name="backgroundimage">profile</string>
+    <string name="post">Post</string>
+    <string name="what_s_on_your_mind">What\'s on your mind?</string>
+    <string name="android">Android</string>
+    <string name="timeline">Timeline</string>
+    <string name="smallimage">smallimage</string>
+    <string name="photos">Photos</string>
+    <string name="about">About</string>
+    <string name="profile">profile</string>
+    <string name="profi1">TODO</string>
+
+    <style name="AppTheme.">#3b5998</style>
+</resources>
